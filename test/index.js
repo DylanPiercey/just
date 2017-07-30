@@ -22,6 +22,7 @@ require('./function-debounce');
 require('./function-throttle');
 require('./collection-compare');
 require('./collection-diff');
+require('./collection-diff-apply');
 require('./collection-pluck');
 require('./collection-flush');
 require('./object-is-empty');
